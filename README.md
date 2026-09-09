@@ -1,29 +1,43 @@
-##BACKUP YOUR ORIGINAL SAVE FIRST##
 
-Two Achievements can be missed:
-1. Collector - Get all the collectibles (Secret)
-2. Mirror Breaker - Face and destroy your fears before they could come alive (Secret)
+# Remothered - Tormented Fathers Save File
+![Logo](https://cdn-ext.fanatical.com/production/product/1280x720/bc52c213-0ebf-4abb-b1c3-d48b94f8b030.jpeg)
 
-Collector can be missed if you collect the documents/pictures and die before saving, so it is recommended to save at every instance.
-As for the Mirror Breaker, this achievement is bugged and can only be obtained if we play the sequence as per the script. That's where my save file saves you! Enter the kid's room, look left, pick up bricks and start breaking the 7 mirror. DO NOT ENTER THE BATHROOM!
 
-Steps:-
+## Warning
 
-1. Press Windows Key + R
+🛑 Always back up your existing save files before modifying your game folder. Paste your personal SaveGames folder into a separate location on your system prior to following these steps.
 
-2. Type %APPDATA% and hit enter
 
-3. Locate your save file in [AppData\Local\Remothered\Saved] Back up your save file first.
+## Overview
 
-4. Now extract my file and copy and paste the SaveGames folder from my file to the same location
+ This repository provides targeted save files for Remothered - Tormented Fathers to help players unlock two difficult or missable achievements without requiring a full replay:
+ - Collector (Secret): Collect all documents and pictures.
+ Note: If you die after picking up a collectible before reaching a checkpoint/save point, the item does not register. Because Save 1 is positioned near the end fight, this achievement may not trigger in this case.
+ - Mirror Breaker (Secret): Destroy your fears before they come alive.
+ This achievement is heavily bugged and only triggers if performed strictly according to script. Save 2 sets up this exact sequence.
 
-5. Run the game
 
-6. Save 1 is the end with all the collectibles & Save 2 is before entering the fire place
+## Installation Guide
 
-**Important**
-Keep a backup of your original save before replacing anything.
+ 1. Press **Windows + R** to open the Run dialog.
 
-If you already have your own progress, do not overwrite it without making a backup first.
+2. Type **%LOCALAPPDATA%\Remothered\Saved** and press Enter.
 
-Also it could be possible that the collector achievement does not pop as the current save is progressed to the end fight.
+3. Back up your existing **SaveGames** directory to a safe location.
+
+4. Extract the [downloaded](https://github.com/BalTor02/Remothered---Tormented-Fathers-100-Save-File-PC/blob/main/Remothered%20-%20Tormented%20Fathers.zip) release archive.
+
+5. Copy and paste the provided **SaveGames** folder into **%LOCALAPPDATA%\Remothered\Saved\,** overwriting existing files when prompted.
+
+6. Launch the game and select the corresponding save slot.
+
+
+## Save File Details & Action Steps
+
+- Save 1 : Collector :- End-game save state with all collectibles accounted for. Load the save to complete the final sequence or verify your collection (Achievements may not trigger)
+
+- Save 2 : Mirror Breaker :-
+  1. Enter the kid's room.
+  2. Look to your left and pick up the bricks.
+  3. Begin breaking the 7 mirrors.
+  4. **DO NOT ENTER THE BATHROOM** under any circumstances, or the scripted sequence will break.
