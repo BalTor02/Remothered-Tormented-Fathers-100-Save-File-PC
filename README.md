@@ -2,10 +2,17 @@
 # Remothered - Tormented Fathers Save File
 ![Logo](https://cdn-ext.fanatical.com/production/product/1280x720/bc52c213-0ebf-4abb-b1c3-d48b94f8b030.jpeg)
 
+<div align="center">
+  <a href="https://github.com/BalTor02/Remothered-Tormented-Fathers-100-Save-File-PC"><img src="https://img.shields.io/github/stars/BalTor02/Remothered-Tormented-Fathers-100-Save-File-PC?color=3D1B5D&style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://store.steampowered.com/app/633360/Remothered_Tormented_Fathers/"><img src="https://img.shields.io/badge/Steam-Store_Page-3D1B5D?style=flat-square&logo=steam&logoColor=white" alt="Steam Store" /></a>
+  <a href="https://github.com/BalTor02"><img src="https://img.shields.io/github/followers/BalTor02?color=3D1B5D&style=flat-square&label=Follow%20%40BalTor02&logo=github" alt="GitHub Follow" /></a>
+  <a href="https://steamcommunity.com/id/baltor_/"><img src="https://img.shields.io/badge/Steam-Add_Friend-3D1B5D?style=flat-square&logo=steam&logoColor=white" alt="Steam Add Friend" /></a>
+  <a href="https://discord.com/users/720645448519385148"><img src="https://img.shields.io/badge/Discord-Profile-3D1B5D?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
 
-## Warning
+## 🛑Warning
 
-🛑 Always back up your existing save files before modifying your game folder. Paste your personal SaveGames folder into a separate location on your system prior to following these steps.
+Always back up your existing save files before modifying your game folder. Paste your personal SaveGames folder into a separate location on your system prior to following these steps.
 
 
 ## Overview
