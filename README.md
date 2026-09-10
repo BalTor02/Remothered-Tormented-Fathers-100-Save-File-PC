@@ -25,7 +25,7 @@
 
 3. Back up your existing **SaveGames** directory to a safe location.
 
-4. Extract the [downloaded](https://github.com/BalTor02/Remothered---Tormented-Fathers-100-Save-File-PC/releases/tag/savefile) release archive.
+4. Extract the [downloaded save archive](https://github.com/BalTor02/Remothered-Tormented-Fathers-100-Save-File-PC/releases/latest/download/Remothered.-.Tormented.Fathers.zip).
 
 5. Copy and paste the provided **SaveGames** folder into **%LOCALAPPDATA%\Remothered\Saved\,** overwriting existing files when prompted.
 
